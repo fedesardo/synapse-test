@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--synwgiaeusd12",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/de196ea1-7f89-41ce-b438-af39476f653d/resourceGroups/RGGIAEUSD12-BI/providers/Microsoft.Synapse/workspaces/synwgiaeusd12",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"synwgiaeusd12-ondemand.a5ad7c7a-cb64-457e-84e7-ac8c017dcc41.sql.azuresynapse.net"
+		]
+	}
+}

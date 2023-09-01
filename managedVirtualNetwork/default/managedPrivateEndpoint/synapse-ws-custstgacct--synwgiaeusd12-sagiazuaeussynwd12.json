@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--synwgiaeusd12-sagiazuaeussynwd12",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/de196ea1-7f89-41ce-b438-af39476f653d/resourceGroups/RGGIAEUSD12-BI/providers/Microsoft.Storage/storageAccounts/sagiazuaeussynwd12",
+		"groupId": "dfs",
+		"fqdns": [
+			"sagiazuaeussynwd12.dfs.core.windows.net"
+		]
+	}
+}

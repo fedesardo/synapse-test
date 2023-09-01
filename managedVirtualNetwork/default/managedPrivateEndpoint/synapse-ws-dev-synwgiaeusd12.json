@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-dev-synwgiaeusd12",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/de196ea1-7f89-41ce-b438-af39476f653d/resourceGroups/RGGIAEUSD12-BI/providers/Microsoft.Synapse/workspaces/synwgiaeusd12",
+		"groupId": "dev",
+		"fqdns": [
+			"synwgiaeusd12.dev.azuresynapse.net"
+		]
+	}
+}
